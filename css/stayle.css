@@ -36,7 +36,8 @@ a {
 }
 :root {
     /* --main-color: rgb(91, 203, 255); */
-    --main-color: rgb(255, 77, 0);
+    --main-color: rgb(144, 0, 255);
+    /* --main-color: rgb(255, 77, 0); */
 }
 /* start header */
 header {
